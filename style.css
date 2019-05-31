@@ -1,0 +1,102 @@
+header{
+    background-color: gray;
+    top: 0px;
+    margin-bottom: 20px;
+    color: lightgray;
+    float: top; 
+    height: 60px;
+}
+#Saeed{
+    display: block;
+    color: lightgray;
+    position: relative;
+}
+#contact{
+    float: right;
+    overflow: auto;
+    display: block;
+    background-color: #063672;
+    margin: 10px;
+    padding: 4px;
+    position: absolute;
+    top: 8px;
+    right: 0px;
+    width: 100px;
+    text-align: center;
+    color: lightgray;
+}
+
+#portfolio{
+    float: right;
+    background-color: #9C824A;
+    margin: 10px;
+    padding: 4px;
+    position: absolute;
+    top: 8px;
+    right: 120px;
+    width: 100px;
+    text-align: center;
+    color: lightgray;
+}
+#about{
+    float: right;
+    background-color: #EF0107;
+    margin: 10px;
+    padding: 4px;
+    position: absolute;
+    top: 8px;
+    right: 240px;
+    width: 100px;
+    text-align: center; 
+    color: lightgray;
+}
+body{
+    background-image: url(http://www.transparenttextures.com/patterns/3px-tile.png);    
+}
+#body{
+    margin-top: 20px;
+    background-color: lightgray;
+}
+#arsenal{
+    float: left;
+    padding: 15px;
+}
+#body header{
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+}
+#cnt{
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+    color: lightgray;
+    margin: auto;
+}
+#input{
+    background-color: lightgray;
+    top: 0px;
+    width: 50%;
+    margin: auto;
+    padding-top: 0px;
+}
+#message{
+    width: 100%;
+    height: 100px;
+    padding-top: 0;
+}
+#name{
+    margin: auto;
+    width: 100%;
+}
+#email{
+    margin: auto;
+    width: 100%;
+}
+#pfl{
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+    color: lightgray;
+    margin: auto;
+}
